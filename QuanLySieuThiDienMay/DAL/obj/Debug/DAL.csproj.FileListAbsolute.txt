@@ -1,0 +1,187 @@
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.pdb
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.pdb
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.dll.config
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.dll.config
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\ZstdSharp.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.dll.config
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.pdb
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Crypto.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Cryptography.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\Google.Protobuf.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Hash.xxHash.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.Buffers.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.IO.Pipelines.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.Memory.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\ZstdSharp.dll
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Crypto.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Cryptography.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\Google.Protobuf.pdb
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\Google.Protobuf.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Hash.xxHash.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.Buffers.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.IO.Pipelines.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.Memory.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\QuanLySieuThiDienMay\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.dll
+D:\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.dll.config
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\ZstdSharp.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.dll.config
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\DAL.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\Google.Protobuf.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Buffers.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.IO.Pipelines.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Memory.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\ZstdSharp.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\Google.Protobuf.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\Google.Protobuf.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Buffers.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.IO.Pipelines.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Memory.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\DAL\obj\Debug\DAL.pdb

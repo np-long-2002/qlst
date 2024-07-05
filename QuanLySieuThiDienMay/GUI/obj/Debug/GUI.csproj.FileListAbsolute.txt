@@ -1,0 +1,1049 @@
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.exe.config
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.exe
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.pdb
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\BLL.pdb
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.exe
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.pdb
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\Guna.UI2.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.pdb
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.dll.config
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmBanHang.resources
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmChucVu.resources
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmHoaDon.resources
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmMain.resources
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmQRCode.resources
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmSavePicture.resources
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemNV.resources
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongTinNV.resources
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.DirectShow.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\BLL.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.GL.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.World.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.GLControl.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\QRCoder.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\ZedGraph.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\Zen.Barcode.Core.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.xml
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.xml
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.DirectShow.xml
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.xml
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.GL.xml
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.World.xml
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.xml
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.GLControl.xml
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\ZedGraph.xml
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\de\ZedGraph.resources.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\es\ZedGraph.resources.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\fr\ZedGraph.resources.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\hu\ZedGraph.resources.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\it\ZedGraph.resources.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\ja\ZedGraph.resources.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\pt\ZedGraph.resources.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\ru\ZedGraph.resources.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\sk\ZedGraph.resources.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\sv\ZedGraph.resources.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\tr\ZedGraph.resources.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\System.Buffers.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\System.Memory.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.xml
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\System.Buffers.xml
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\System.Memory.xml
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\KLKS\Code-WinForms\SieuThiDienMay\QuanLySieuThiDienMay\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.exe.config
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\BLL.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.World.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\QRCoder.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.dll.config
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\BLL.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.World.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmBanHang.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmChiTietHoaDon.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmChucVu.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmDangNhap.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmHoaDon.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmKhachHang.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmMain.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmNhaCungCap.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmNhanVien.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmQRCode.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmSanPham.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmSavePicture.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmTestChamCong.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmTestLoadSanPhamImage.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemKH.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemNV.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongTinKH.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongTinNV.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.exe
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.presentation.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmScan.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmChiTietNhaCungCap.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmDoiTraSanPham.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.CodeDom.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.CodeDom.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemSP.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongTinSP.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmKho.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmDoiMatKhau.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaHD.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaKH.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaNCC.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaNV.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaSP.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AE.Net.Mail.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Core.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AE.Net.Mail.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Core.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.dll.config
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.exe.manifest
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.application
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.exe.manifest
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.application
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemSPMoiVaoKho.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongKe.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmNhapKho.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\FirebaseAdmin.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\FirebaseAdmin.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.exe.config
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Firebase.Storage.dll
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmMatKhauMoi.resources
+C:\Users\Admin\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmKhoiPhuc.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.exe.config
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmBanHang.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmChiTietHoaDon.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmChiTietNhaCungCap.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmChucVu.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmDoiMatKhau.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmDoiTraSanPham.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmHoaDon.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmKho.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmKhoiPhuc.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaHD.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaKH.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaNCC.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaNV.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaSP.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmMain.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmMatKhauMoi.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmNhaCungCap.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmNhapKho.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmQRCode.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmSanPham.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmSavePicture.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmScan.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmTestLoadSanPhamImage.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemKH.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemNV.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemSP.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemSPMoiVaoKho.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongKe.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongTinKH.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongTinNV.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongTinSP.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.exe
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.exe.config
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.exe
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\AE.Net.Mail.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.DirectShow.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\BLL.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Crypto.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.GL.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.World.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Firebase.Storage.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\FirebaseAdmin.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.Rest.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Auth.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Core.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Gmail.v1.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Storage.v1.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Cloud.Storage.V1.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Protobuf.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Guna.UI2.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Hash.xxHash.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.GLControl.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\QRCoder.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Buffers.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.CodeDom.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Collections.Immutable.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.IO.Pipelines.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Memory.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.ValueTuple.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ZedGraph.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Zen.Barcode.Core.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ZstdSharp.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.presentation.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\EnvDTE.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\stdole.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.MSXML.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.dll.config
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\AE.Net.Mail.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.DirectShow.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\BLL.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Crypto.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.GL.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.World.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\FirebaseAdmin.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.Rest.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.Rest.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Auth.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Auth.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Core.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Core.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Gmail.v1.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Gmail.v1.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Storage.v1.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Storage.v1.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Cloud.Storage.V1.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Cloud.Storage.V1.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Protobuf.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Protobuf.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Hash.xxHash.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.dll.config
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.GLControl.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Buffers.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.CodeDom.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Collections.Immutable.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.IO.Pipelines.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Memory.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.ValueTuple.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ZedGraph.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.presentation.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\de\ZedGraph.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\es\ZedGraph.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\fr\ZedGraph.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\hu\ZedGraph.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\it\ZedGraph.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ja\ZedGraph.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\pt\ZedGraph.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\ru\ZedGraph.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\sk\ZedGraph.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\sv\ZedGraph.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\tr\ZedGraph.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.exe.config
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmBanHang.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmChiTietHoaDon.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmChiTietNhaCungCap.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmChucVu.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmDangNhap.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmDoiMatKhau.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmDoiTraSanPham.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmHoaDon.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmKhachHang.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmKho.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmKhoiPhuc.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaHD.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaKH.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaNCC.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaNV.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaSP.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmMain.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmMatKhauMoi.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmNhaCungCap.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmNhanVien.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmNhapKho.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmQRCode.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmSanPham.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmSavePicture.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmScan.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmTestLoadSanPhamImage.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemKH.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemNV.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemSP.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemSPMoiVaoKho.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongKe.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongTinKH.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongTinNV.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongTinSP.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.exe
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.exe.config
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\AE.Net.Mail.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\BLL.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.World.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Firebase.Storage.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\FirebaseAdmin.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Core.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\QRCoder.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.CodeDom.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.dll.config
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\AE.Net.Mail.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\BLL.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.World.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\FirebaseAdmin.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Core.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.dll.config
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.CodeDom.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.presentation.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemKho.resources
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\libSkiaSharp.dylib
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\x64\libSkiaSharp.so
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\arm\libSkiaSharp.so
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\SkiaSharp.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Resources.Extensions.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\SkiaSharp.pdb
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\SkiaSharp.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Resources.Extensions.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Downloads\Khoá luận\QuanLySieuThiDienMay\GUI\bin\Debug\System.Text.Json.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\libSkiaSharp.dylib
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\x64\libSkiaSharp.so
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\arm\libSkiaSharp.so
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.exe.config
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.exe
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\GUI.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AE.Net.Mail.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\BLL.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.World.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Firebase.Storage.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\FirebaseAdmin.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Core.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Protobuf.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.GLControl.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\QRCoder.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\SkiaSharp.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Buffers.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.CodeDom.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Collections.Immutable.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Memory.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Resources.Extensions.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Text.Json.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ZedGraph.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ZstdSharp.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EnvDTE.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\stdole.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\DAL.dll.config
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AE.Net.Mail.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\BLL.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Emgu.CV.World.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\EPPlus.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\FirebaseAdmin.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Core.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Cloud.Storage.V1.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Protobuf.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Google.Protobuf.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\MimeKit.dll.config
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\OpenTK.GLControl.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\SkiaSharp.pdb
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\SkiaSharp.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Buffers.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.CodeDom.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Collections.Immutable.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Memory.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Resources.Extensions.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Text.Json.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ZedGraph.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zxing.presentation.xml
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.exe.config
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmBanHang.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmChiTietHoaDon.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmChiTietNhaCungCap.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmChucVu.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmDangNhap.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmDoiMatKhau.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmDoiTraSanPham.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmHoaDon.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmKhachHang.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmKho.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmKhoiPhuc.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaHD.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaKH.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaNCC.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaNV.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmLichSuXoaSP.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmMain.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmMatKhauMoi.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmNhaCungCap.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmNhanVien.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmNhapKho.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmQRCode.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmSanPham.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmSavePicture.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmScan.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmTestLoadSanPhamImage.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemKH.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemKho.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemNV.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemSP.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemSPMoiVaoKho.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongKe.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongTinKH.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongTinNV.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThongTinSP.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.exe
+C:\Users\vanha\Downloads\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\libSkiaSharp.dylib
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\x86\libSkiaSharp.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\x64\libSkiaSharp.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\arm64\libSkiaSharp.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\x64\libSkiaSharp.so
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\arm\libSkiaSharp.so
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\arm64\libSkiaSharp.so
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\musl-x64\libSkiaSharp.so
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\SkiaSharp.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Resources.Extensions.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Text.Json.dll
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\SkiaSharp.pdb
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\SkiaSharp.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Resources.Extensions.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\QuanLySieuThiDienMay\GUI\bin\Debug\System.Text.Json.xml
+D:\QuanLySieuThiDienMay\GUI\obj\Debug\GUI.frmThemKho.resources

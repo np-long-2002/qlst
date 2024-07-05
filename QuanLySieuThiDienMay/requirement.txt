@@ -1,0 +1,16 @@
+Thư viện nuget:
+- Guna.UI2.WinForms
+- Aforge
+- Aforge.Video
+- Aforge.Video.DirectShow
+- QRCoder
+- Zen.Barcode.Core
+- Google.Cloud.Storage.V1
+- FirebaseAdmin
+- Firebase.Storage
+
+Cài môi trường firebase ở Environment Variables:
+- name: GOOGLE_APPLICATION_CREDENTIALS
+- value: C:\Users\Admin\Downloads\qlsieuthi-54c8e-firebase-adminsdk-clg1j-cd0dbaed0c.json
+
+Thay đổi đường dỗi local (folderPath) trong source code
